@@ -1,0 +1,22 @@
+td, th{
+    border: #00ff99 1px solid;
+    padding: 10px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+thead{
+    font-family: "Droid Sans Mono" ;
+    font-size: 28px;
+    color: blueviolet;
+}
+h2{
+    text-align: center ;
+    font-family: ;
+    font-size: 30px;
+    color: #b00d8f;
+}
+tr:nth-child(even){
+    color: chocolate;
+}

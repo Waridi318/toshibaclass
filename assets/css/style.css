@@ -1,0 +1,38 @@
+.fruits{
+    border: 2px solid indianred;
+    background-color: brown;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: beige;
+}
+.cars{
+    background-color: #00ff99;
+    border: black solid 2px;
+    padding: 20px;
+    margin: 20px;
+    text-align: end;
+    color: darkorchid;
+}
+.comp{
+    background-color: #bea528;
+    border: #1de3c5 solid 2px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    color: #141415;
+}
+.lapt{
+    border: 2px solid black;
+}
+.dst{
+    border: 2px dotted pink;
+}
+#house{
+    background-color: #bea528;
+    border: #1de3c5 solid 2px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    color: #141415;
+}
